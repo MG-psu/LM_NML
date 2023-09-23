@@ -1,0 +1,1 @@
+This is the code for the paper "Characterizing Diseases Using Genetic and Clinical Variables: A Data Analytics Approach" ![image](https://github.com/MG-psu/LM_NML_Analysis/assets/11085688/47b459da-323a-43fa-93bf-16cca268b5a2)
